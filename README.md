@@ -1,0 +1,4 @@
+myFirstGitRepo
+==============
+
+Just testing git
